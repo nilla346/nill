@@ -1,0 +1,13 @@
+div{
+	width:100px;
+	background:tomato;
+	color:white;
+	padding:20px;
+	margin-bottom:20px;
+	transition:width 2s;
+}
+.div2:hover{
+	width:500px;
+	transition-timing-function:ease;
+	
+}
